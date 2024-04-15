@@ -1,0 +1,7 @@
+colour-checker-detection==0.1.4
+colour-science==0.4.2
+matplotlib==3.7.1
+numpy==1.24.3
+opencv-python==4.7.0.72
+Pillow==9.5.0
+ipykernel
