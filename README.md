@@ -1,9 +1,5 @@
 # Color Processing and Image Pipelines
 
-**Owner:** Hamza Zafar  
-**Project Type:** Color Science and Image Processing  
-**Year:** 2024
-
 ## Overview
 This repository contains detailed analyses and R&D work on color processing and image pipelines, with a focus on CMOS sensors, demosaicing, white balancing, and advanced deep learning techniques in the field of photography and image processing. The project covers everything from early-stage color correction (preprocessing) to final image output, focusing on how modern cameras and software systems process raw images.
 
